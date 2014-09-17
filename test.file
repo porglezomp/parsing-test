@@ -1,0 +1,9 @@
+# This is a header comment
+
+a = 0
+if a + 1 == 0:
+    print("Hello!")
+else:
+    print("Hi!")
+
+print(a)
